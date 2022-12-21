@@ -1,0 +1,56 @@
+Body{
+    background: linear-gradient(to top right, #1C315E 30%, #5F9DF7 100%);
+    background-attachment: fixed;
+
+}
+
+.MainBlock{
+    margin: 15% 0% 0% 37%;
+    height: 30vh;
+    width: 30vw;
+}
+
+#weatherstatus {
+    color: red
+}
+.LogoandAddress{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 10vh;
+    width: 25vw;
+}
+
+.Addressh1{
+    font-family: 'Montserrat', sans-serif;
+    border-style: solid;
+    border-color: #FFFFFF;
+    height: 2vh;
+    width: auto;
+    padding: 1vh;
+    color:#FFFFFF;
+    font-size: 14px;
+}
+
+.logoAddressimage{
+    height: 3vh;
+    width: 7vw;
+    margin-top: 3vh;
+}
+
+.weatherimageclass {
+    height: 20vh;
+    width: 20vh;
+    margin: 2vh 0 2vh 6vw;
+}
+
+.WeatherStatush2{
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+    font-weight: 200;
+}
+
+.WeatherStatusp{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
